@@ -1,0 +1,6 @@
+.env
+videos/
+screenshots/
+*.log
+venv/
+__pycache__/
